@@ -1,0 +1,52 @@
+\contentsline {section}{\numberline {1}استخراج معادلات دینامیکی و پیاده سازی مدل}{6}{section.1}%
+\contentsline {subsection}{\numberline {1.1}تحلیل ساختاری و عملکردی سیستم کنترل سطح مخزن \lr {(Tank Filling Control System)}}{6}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}تحلیل اجزای سیستم \lr {(Block Identification)} }{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}تحلیل ورودی‌ها و خروجی‌ها}{7}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}تشریح فرآیند پر و خالی شدن مخزن}{7}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}فاز پر شدن }{7}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}فاز تخلیه }{7}{subsubsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.5}پارامترهای اولیه سیستم}{7}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}معادلات حاکم بر دینامیک تانکر}{8}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}استخراج تابع تبدیل با استفاده از پاسخ پله}{9}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}مراحل انجام آزمایش}{10}{subsubsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}محاسبه پارامترها}{10}{subsubsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.8}محاسبه تابع تبدیل حلقه بسته \lr {(Closed-Loop Transfer Function)}}{11}{subsection.1.8}%
+\contentsline {subsubsection}{\numberline {1.8.1}فرم استاندارد و مقادیر عددی}{11}{subsubsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.9}پیاده‌سازی مجدد مدل در سیمولینک}{11}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}استخراج تابع تبدیل سیستم (حلقه باز)}{12}{subsection.1.10}%
+\contentsline {subsubsection}{\numberline {1.10.1}روش اول: تحلیل معادلات دیفرانسیل}{12}{subsubsection.1.10.1}%
+\contentsline {subsubsection}{\numberline {1.10.2}روش دوم: استخراج از داده‌های شبیه‌سازی}{13}{subsubsection.1.10.2}%
+\contentsline {subsection}{\numberline {1.11}تحلیل عملکرد سیستم در حالت حلقه بسته}{13}{subsection.1.11}%
+\contentsline {subsubsection}{\numberline {1.11.1}تفکیک اجزای کنترلی و پلنت}{13}{subsubsection.1.11.1}%
+\contentsline {subsubsection}{\numberline {1.11.2}محاسبه تابع تبدیل حلقه بسته}{13}{subsubsection.1.11.2}%
+\contentsline {subsubsection}{\numberline {1.11.3}تحلیل اثر شیر خروجی به عنوان اغتشاش (\lr {Disturbance})}{13}{subsubsection.1.11.3}%
+\contentsline {subsection}{\numberline {1.12}تحلیل اعتبار تابع تبدیل }{14}{subsection.1.12}%
+\contentsline {section}{\numberline {2}تحلیل حلقه باز سیستم \lr {(Open-Loop Analysis)}}{14}{section.2}%
+\contentsline {subsection}{\numberline {2.1}تحلیل پاسخ پله و پارامترهای زمانی}{17}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}تفاوت پاسخ به پله‌های کوچک و بزرگ (خطی vs غیرخطی)}{18}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}تحلیل پاسخ به ورودی‌های ضربه و شیب}{18}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}تعیین ساختار و تایپ سیستم}{20}{subsection.2.4}%
+\contentsline {section}{\numberline {3}تحلیل پایداری و رفتار غیرخطی سیستم}{20}{section.3}%
+\contentsline {subsection}{\numberline {3.1}بررسی پایداری \lr {BIBO}}{20}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}تحلیل پایداری به روش راث-هرویتز ( \lr {Routh-Hurwitz})}{20}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}بررسی محل قطب‌ها و صفرها (\lr {Pole-Zero Map})}{21}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}تحلیل رفتار غیرخطی و ناپایداری‌های عملی}{22}{subsection.3.4}%
+\contentsline {section}{\numberline {4}تحلیل در حوزه فرکانس}{22}{section.4}%
+\contentsline {subsection}{\numberline {4.1}تحلیل نمودار بود (\lr {Bode Plot Analysis})}{23}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}تحلیل پایداری با معیار نایکوئیست }{24}{subsection.4.2}%
+\contentsline {section}{\numberline {5}طراحی جبران ساز و تنظیم پاسخ نوسانی}{25}{section.5}%
+\contentsline {subsection}{\numberline {5.1}گام اول: کنترل‌کننده تناسبی (\lr {P-Controller})}{26}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}گام دوم: کنترل‌کننده تناسبی-مشتق‌گیر (\lr {PD-Controller})}{27}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}گام سوم: کنترل‌کننده تناسبی-انتگرالی (\lr {PI-Controller})}{27}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}طراحی و تنظیم نهایی کنترل‌کننده PID}{28}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}گام اول: تجمیع جبران‌سازها \lr {(Initial Design)}}{29}{subsubsection.5.4.1}%
+\contentsline {subsubsection}{\numberline {5.4.2}گام دوم: تنظیم دقیق جهت افزایش سرعت و پایداری \lr {(High Speed Tuning)}}{30}{subsubsection.5.4.2}%
+\contentsline {section}{\numberline {6}شبیه‌سازی و ارزیابی عملکرد در محیط سیمولینک}{31}{section.6}%
+\contentsline {subsection}{\numberline {6.1}تحلیل رفتار سیستم در برابر اغتشاش (\lr {Disturbance Analysis})}{31}{subsection.6.1}%
+\contentsline {section}{\numberline {7}تحلیل اثر نویز و طراحی فیلتر جهت مقاوم‌سازی سیستم}{32}{section.7}%
+\contentsline {subsection}{\numberline {7.1}شبیه‌سازی و مشاهده اثر مخرب نویز}{32}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}راهکار: فیلتر پایین‌گذر و تحلیل مصالحه (\lr {Trade-off})}{33}{subsection.7.2}%
+\contentsline {section}{\numberline {8}بررسی امکان‌پذیری کاهش ثابت زمانی به یک ثانیه}{33}{section.8}%
+\contentsline {subsection}{\numberline {8.1}تحلیل تغییرات پارامترهای فیزیکی}{33}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}تحلیل تغییرات کنترلی }{34}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}چالش اصلی: محدودیت انرژی \lr {(Actuator Saturation)}}{34}{subsubsection.8.2.1}%
