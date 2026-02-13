@@ -215,11 +215,11 @@ Nonlinear Modeling → Linearization → Transfer Function → Analysis → Cont
 1. Open MATLAB
 2. Open Simulink model from /simulink_models
 3. Run simulation
-
+<!--
  ## 👨‍🎓 Authors
 
  - Nima Naqavi
-<!-- text -->
+ -->
 
 
 ## 📄 License
