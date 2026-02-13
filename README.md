@@ -216,9 +216,10 @@ Nonlinear Modeling → Linearization → Transfer Function → Analysis → Cont
 2. Open Simulink model from /simulink_models
 3. Run simulation
 
-% ## 👨‍🎓 Authors
+ ## 👨‍🎓 Authors
 
-% - Nima Naqavi
+ - Nima Naqavi
+<!-- text -->
 
 
 ## 📄 License
